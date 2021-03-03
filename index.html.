@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+       body{background: rgb(4, 6, 54);}
+        
+        h1 {color: rgb(128, 13, 128);}
+        
+        th{color: rgb(128, 13, 128);}
+        
+        p{color: rgb(128, 13, 128);}
+        
+        h2{color: rgb(128, 13, 128);}
+        
+        ol{ color: rgb(128, 13, 128);}
+        
+        ul{ color: rgb(128, 13, 128);}
+        
+        #strong-fill{ color: rgb(82, 199, 32);}
+        </style>
+    </head>
+    <body>
+       
+        <h1>max's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+         <a href="#fill-pastry"> see how to fill a pastry bag </a>
+        </ol>
+         <ol><a href="#Ingredients"> Ingredients </a></ol>
+         <ol><a href= "#the-steps">  the steps</a>
+             
+         </ol>
+        <h2 id="?">Recipe #1</h2>
+        
+        <ul>
+            <li>Time 1:00 </li>
+            <li>Serves 4 </li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th id="Ingredients" >Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+                <tr>
+                    <th> egg </th>
+                    <th> 1 </th>
+                    
+                </tr>
+                 <tr>
+                    <th> flour </th>
+                    <th> 1/2 cup </th>
+                    
+                </tr>
+                 <tr>
+                    <th> butter </th>
+                    <th> 4 TBsp + TBsp</th>
+                    
+                </tr>
+                  <tr>
+                    <th>vanilla</th>
+                    <th> 1/2 tsp</th>
+                 </tr>
+                 <tr>
+                    <th> salt</th>
+                    <th> 1/4 tsp</th>
+                 </tr>
+                 <tr>
+                    <th> brown sugar</th>
+                    <th> 1 TBsp</th>
+                 </tr>
+                 <tr>
+                    <th> water </th>
+                    <th>1/2 cup </th>
+                 </tr>
+                 <tr>
+                    <th> sugar</th>
+                    <th>1/2 cup </th>
+                 </tr>
+                 <tr>
+                    <th>cinnamon</th>
+                    <th> 1 tsp</th>
+                 </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        
+        <p id= "the-steps"><strong>Step 1:</strong> preheat oven to 4:00. line baking sheet with parchment paper.
+</p> 
+<p><strong>Step 2:</strong> add water, brown sugar, salt, vannilla, and 4 TBsp butter to pot, set over medium heat, stir until butter is melted. </p>
+
+      <p><strong>Step 3:</strong> add flour, stir with rubber spatula until a thick paste forms.</p> 
+      
+       <p><strong>Step 4:</strong> cook dough for 1 minute, mixing constantly, until a smooth ball of dough forms, tern off heat and set aside.</p>
+     
+      <p><strong>Step 5:</strong> crack egg in large bowl, throw away shell and wash your hands, whisk until smooth.</p>
+      
+       <p><strong>Step 6:</strong> add dough to egg, mix vigorously with large whisk until fully   incorporated.</p>
+      
+     
+       <p><strong>Step 7:</strong> prepare pastry bag </p> 
+      
+      <p><strong>Step 8:</strong>
+      squeeze batter to make a 3-inch log, use a knife to cut to size.</p> 
+      
+       <p><strong>Step 9:</strong> 
+        melt 1 TBsp butter in microwave-safe bowl for 30 seconds, use a pastry brush to paint butter on churros.</p> 
+     <p><strong>Step 10:</strong> bake 25-27 minutes, until churrows are crisp and ridges are thoroughly browned.</p> 
+      <p><strong>Step 11:</strong> combine sugar and cinnamon in large resealable bag, add 6 warm churros, shake to coat, repeat to finish</p> 
+     
+    
+    
+    
+   <p id="strong-fill"><strong>see how to fill a pastry bag</strong></p>
+   <p id= "fill-pastry"> secure the piping tip on the outside of the pastry bag, using a coupler ring<br>1 insert the coupler base into the pastry bag,
+   if necessary snip off the tip of the pastry bag to expose the tip of the coupler base,<br>
+   2 drop the piping tip into the coupler ring,<br>
+   3 screw the coupler ring onto the coupler base with the thin pastry bag between.</P>
+   
+   
+   <p> <strong>filling the pastry bag<br></strong>
+    place the prepard pastry bag into a tall drinking glass fold the top of the bag with batter or frosting. 
+    </p><p><strong>using the pastry bag<br></strong>
+     once filled gather the top of the bag together and gently twist, use your writing hand to hold the bag closed and gently apply pressure, use your other hand as a guide for the piping tip.</p>
+    </body>
+</html>
